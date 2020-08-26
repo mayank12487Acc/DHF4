@@ -1,0 +1,10 @@
+{
+  "language" : "zxx",
+  "name" : "MapProduct",
+  "description" : "",
+  "version" : 0,
+  "targetEntityType" : "http://product.orgProduct-0.0.1/Product",
+  "sourceContext" : "",
+  "sourceURI" : "",
+  "properties" : { }
+}

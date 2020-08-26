@@ -1,0 +1,10 @@
+{
+  "language" : "zxx",
+  "name" : "MapProduct",
+  "description" : "Map",
+  "version" : 1,
+  "targetEntityType" : "http://product.orgProduct-0.0.1/Product",
+  "sourceContext" : "//",
+  "sourceURI" : "/Products/Chess.xml",
+  "properties" : { }
+}

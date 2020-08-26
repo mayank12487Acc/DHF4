@@ -1,0 +1,10 @@
+{
+  "language" : "zxx",
+  "name" : "MapCustomer",
+  "description" : "Mapping for customer",
+  "version" : 0,
+  "targetEntityType" : "http://Roche.org/customerCustomer-0.0.1/Customer",
+  "sourceContext" : "",
+  "sourceURI" : "",
+  "properties" : { }
+}

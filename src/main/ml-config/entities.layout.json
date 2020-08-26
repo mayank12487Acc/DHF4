@@ -1,0 +1,23 @@
+{
+  "Order" : {
+    "x" : 768,
+    "y" : 54,
+    "width" : 350,
+    "height" : 188,
+    "vertices" : { }
+  },
+  "Product" : {
+    "x" : 254,
+    "y" : 43,
+    "width" : 325,
+    "height" : 97,
+    "vertices" : { }
+  },
+  "Customer" : {
+    "x" : 50,
+    "y" : 175,
+    "width" : 350,
+    "height" : 188,
+    "vertices" : { }
+  }
+}

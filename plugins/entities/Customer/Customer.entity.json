@@ -1,0 +1,34 @@
+{
+  "info" : {
+    "title" : "Customer",
+    "version" : "0.0.1",
+    "baseUri" : "http://Roche.org/customer",
+    "description" : "Customer "
+  },
+  "definitions" : {
+    "Customer" : {
+      "required" : [ ],
+      "pii" : [ "Adress", "Card_Details" ],
+      "elementRangeIndex" : [ ],
+      "rangeIndex" : [ ],
+      "wordLexicon" : [ ],
+      "properties" : {
+        "Name" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "Phone" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "Adress" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "Card_Details" : {
+          "datatype" : "int"
+        }
+      }
+    }
+  }
+}

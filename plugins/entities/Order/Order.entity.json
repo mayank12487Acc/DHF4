@@ -1,0 +1,33 @@
+{
+  "info" : {
+    "title" : "Order",
+    "version" : "0.0.1",
+    "baseUri" : "http://order.org"
+  },
+  "definitions" : {
+    "Order" : {
+      "primaryKey" : "OrderID",
+      "required" : [ ],
+      "pii" : [ ],
+      "elementRangeIndex" : [ ],
+      "rangeIndex" : [ ],
+      "wordLexicon" : [ ],
+      "properties" : {
+        "OrderID" : {
+          "datatype" : "int"
+        },
+        "Buyer" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "Product" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "OrderPrice" : {
+          "datatype" : "decimal"
+        }
+      }
+    }
+  }
+}

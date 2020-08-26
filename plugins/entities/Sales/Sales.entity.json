@@ -1,0 +1,19 @@
+{
+  "info" : {
+    "title" : "Sales",
+    "version" : "0.0.1",
+    "baseUri" : "http://example.com/",
+    "description" : "An Sales entity"
+  },
+  "definitions" : {
+    "Sales" : {
+      "description" : "The Sales entity root.",
+      "required" : [ ],
+      "rangeIndex" : [ ],
+      "elementRangeIndex" : [ ],
+      "wordLexicon" : [ ],
+      "pii" : [ ],
+      "properties" : { }
+    }
+  }
+}
