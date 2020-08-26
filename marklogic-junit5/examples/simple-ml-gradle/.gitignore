@@ -1,8 +1,0 @@
-.gradle
-.tmp
-.idea
-out
-*.iml
-gradle-local.properties
-build
-.DS_Store
